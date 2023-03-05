@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: goldenrod;
+}
+
+#results {
+  margin-top: 20px;
+}
+
+#results ul {
+  list-style: none;
+  padding: 0;
+}
+
+#results li {
+  margin-bottom: 10px;
+}
